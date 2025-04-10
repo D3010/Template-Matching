@@ -47,3 +47,69 @@ NCC is a robust statistical approach that measures similarity while accounting f
 
 ## 📁 Project Structure
 
+
+---
+
+## 🧰 Dependencies
+
+- Python 3.x  
+- OpenCV  
+- NumPy  
+- Matplotlib
+
+---
+
+## 🎯 Results
+
+The project includes:
+
+- Matching templates on grayscale images using SAD and NCC.  
+- Visualization of the best-matched region(s) with bounding boxes.  
+- An advanced demonstration of **multi-scale matching** using Gaussian filtering and template resizing to handle objects at various resolutions.
+
+---
+
+## 🎓 Learning Outcomes
+
+- Developed a deeper understanding of how **template matching** works under the hood.  
+- Learned the limitations and strengths of **SAD vs. NCC**.  
+- Gained insight into **image convolution**, **kernel design**, and **multi-scale detection**.  
+- Strengthened skills in **visual debugging** and interpreting **correlation scores**.
+
+---
+
+## 📸 Visual Examples
+
+The final output visually highlights the matched regions across different template scales:
+
+- 🟩 **Green**: Small-scale template match  
+- 🔵 **Blue**: Medium-scale match  
+- 🔴 **Red**: Large-scale match
+
+---
+
+## 📖 Documentation
+
+For complete theoretical explanations, equations, and breakdowns of each method, refer to the `Template_Matching_Documentation.pdf` included in this repository. It includes:
+
+- Mathematical background  
+- Function-by-function breakdown  
+- Use case scenarios  
+- Visual representations of the process  
+
+---
+
+## 💡 Future Improvements
+
+- Implement **GPU-accelerated** versions using libraries like **CuPy** or **TensorFlow**  
+- Add **rotation- and scale-invariant** matching capabilities  
+- Explore **feature-based alternatives** like **ORB**, **SIFT**, or **template matching with edge maps**
+
+---
+
+## 📬 Contact
+
+If you have any questions or suggestions, feel free to reach out at:  
+📧 **dshah30.us@gmail.com**
+
+
