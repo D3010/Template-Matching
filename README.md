@@ -45,9 +45,6 @@ NCC is a robust statistical approach that measures similarity while accounting f
 
 ---
 
-## 📁 Project Structure
-
-
 ---
 
 ## 🧰 Dependencies
@@ -106,10 +103,4 @@ For complete theoretical explanations, equations, and breakdowns of each method,
 - Explore **feature-based alternatives** like **ORB**, **SIFT**, or **template matching with edge maps**
 
 ---
-
-## 📬 Contact
-
-If you have any questions or suggestions, feel free to reach out at:  
-📧 **dshah30.us@gmail.com**
-
 
